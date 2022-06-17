@@ -1,6 +1,7 @@
 body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: #264653;
 }
 
 a {
@@ -18,4 +19,8 @@ a {
 
 li {
   list-style: none;
+}
+
+h1 {
+  color: #2a9d8f;
 }
